@@ -1,9 +1,9 @@
 # Haru-Fashion E-commerce Web Application
 
 ![Haru-Fashion Responsive Design (2)](https://user-images.githubusercontent.com/53733092/139094836-3c75c8fa-4f7a-43a7-b8c8-7cf45af53b71.png)
-![ts](https://badgen.net/badge/Built%20With/TypeScript/blue) ![vercel](https://img.shields.io/github/deployments/satnaing/e-commerce/production?label=vercel&logo=vercel&logoColor=white) [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+![ts](https://badgen.net/badge/Built%20With/TypeScript/blue) ![vercel](https://img.shields.io/github/deployments/loonglim/Haru-Fashion-E-Commerce/production?label=vercel&logo=vercel&logoColor=white) [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-An e-commerce web application developed with Next.JS and TypeScript. Tailwind CSS is used for styling and React's Context API is used for state management. Custom REST API is used as a backend ([Haru API](https://github.com/satnaing/haru-api)).
+An e-commerce web application developed with Next.JS and TypeScript. Tailwind CSS is used for styling and React's Context API is used for state management. Custom REST API is used as a backend ([Haru API](https://github.com/loonglim/haru-api)).
 
 ## Demo
 
@@ -38,7 +38,7 @@ An e-commerce web application developed with Next.JS and TypeScript. Tailwind CS
 **Styling** - Tailwind CSS  
 **Design & Prototype** - Figma  
 **State Management** - ContextAPI  
-**Backend** - [Haru API](https://github.com/satnaing/haru-api) (Previous Version - Firebase)  
+**Backend** - [Haru API](https://github.com/loonglim/haru-api) (Previous Version - Firebase)  
 **Containerization:** Docker  
 **Deployment** Vercel
 
@@ -47,13 +47,13 @@ An e-commerce web application developed with Next.JS and TypeScript. Tailwind CS
 Clone the project
 
 ```bash
-git clone https://github.com/satnaing/e-commerce.git
+git clone https://github.com/loonglim/Haru-Fashion-E-Commerce.git
 ```
 
 Go to the project directory
 
 ```bash
-cd e-commerce
+cd Haru-Fashion-E-Commerce
 ```
 
 Remove remote origin
@@ -83,4 +83,4 @@ Even though I wrote every single line of code for this web app, images and some 
 
 ## Author
 
-- [@satnaing](https://github.com/satnaing)
+- [@loonglim](https://github.com/loonglim)
